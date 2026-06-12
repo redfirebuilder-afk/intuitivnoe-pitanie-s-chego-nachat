@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://redfirebuilder-afk.github.io/intuitivnoe-pitanie-s-chego-nachat/sitemap.xml
